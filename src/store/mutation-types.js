@@ -1,0 +1,3 @@
+export const SET_COMPONENTS = 'SET_COMPONENTS';
+
+export const SET_COMPONENT_ID = 'SET_COMPONENT_ID';
